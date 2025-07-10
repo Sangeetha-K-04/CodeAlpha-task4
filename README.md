@@ -28,7 +28,33 @@ This project helped me explore how simple **if-else logic, functions, and dictio
   
 ## 📸 Sample Chat Output
 
-![Sample chat Output](https://github.com/Sangeetha-K-04/Codealpha-Task3/blob/main/CodeAlpha%20task3.png?raw=true)
+![Sample chat Output](https://github.com/Sangeetha-K-04/CodeAlpha-task4/blob/main/codeAlpha%20task4.png?raw=true)
+
+
+## ▶️ Getting Started
+
+### 📦 Prerequisites
+
+- [Python 3](https://www.python.org/downloads/)
+- Any terminal or code editor (VS Code, PyCharm, etc.
+
+### 🚀 How to Run
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/Sangeetha-K-04/CodeAlpha-task4.git
+   cd CodeAlpha-task4
+
+2. **Run the script:**
+   
+    python chatbuddy.py
+
+3. **Start chatting!**
+   
+    Type any message like hello, how are you, or bye and enjoy the conversation.
+   
+    Type exit to end the chat.
+
 
 
 
