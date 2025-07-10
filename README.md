@@ -28,5 +28,7 @@ This project helped me explore how simple **if-else logic, functions, and dictio
   
 ## 📸 Sample Chat Output
 
+![Sample chat Output](https://github.com/Sangeetha-K-04/Codealpha-Task3/blob/main/CodeAlpha%20task3.png?raw=true)
+
 
 
